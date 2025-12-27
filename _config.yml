@@ -1,0 +1,20 @@
+title: Rajiv Aarogyasri Scheme – Telangana
+author: Dr. Pothireddy Surendranath Reddy
+description: >
+  Rajiv Aarogyasri Scheme in the State of Telangana – Complete Guide
+  explained by Dr. Pothireddy Surendranath Reddy, Orthopaedic Surgeon,
+  Public Health Educator.
+
+theme: minima
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+show_excerpts: false
+
+header_pages:
+  - index.md
